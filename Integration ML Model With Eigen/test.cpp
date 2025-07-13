@@ -1,5 +1,5 @@
-#include <D:\dyplom\praca\eigen\Eigen\Dense> //Ścieżka do frameworku Eigen
-#include <D:\dyplom\praca\onnxruntime-1.22.0\include\onnxruntime_cxx_api.h> //Ścieżka do silnika ONNX
+#include <Eigen\Dense> //Ścieżka do frameworku Eigen/Path to Eigen framework
+#include <include\onnxruntime_cxx_api.h> //Ścieżka do silnika ONNX/Path to ONNX runtime
 #include <iostream>
 #include <vector>
 #include <string>
